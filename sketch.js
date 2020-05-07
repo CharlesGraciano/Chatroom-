@@ -27,14 +27,14 @@ function setup() {
   sendBtn.mousePressed(sendMessage);
 
   let config = {
-    apiKey: "AIzaSyC-4LvZ39_rdJp8LpCwdD2LT4Xpi7RoVKE",
-    authDomain: "xsocial-bafa7.firebaseapp.com",
-    databaseURL: "https://xsocial-bafa7.firebaseio.com",
-    projectId: "xsocial-bafa7",
-    storageBucket: "xsocial-bafa7.appspot.com",
-    messagingSenderId: "885435903629",
-    appId: "1:885435903629:web:cdaaa02cee4c2fc9acbcc4",
-    measurementId: "G-YX8LWSB5MB"
+    apiKey: "AIzaSyDJdRoS4rYe5hMwf8_LNWrEF0NLC3fKsS8",
+    authDomain: "text-me-dc031.firebaseapp.com",
+    databaseURL: "https://text-me-dc031.firebaseio.com",
+    projectId: "text-me-dc031",
+    storageBucket: "text-me-dc031.appspot.com",
+    messagingSenderId: "232930402370",
+    appId: "1:232930402370:web:0524cc10c396f9ebf70ddb",
+    measurementId: "G-24F36V4RC2"
   };
 
   firebase.initializeApp(config);
