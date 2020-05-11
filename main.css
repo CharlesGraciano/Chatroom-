@@ -5,14 +5,14 @@ html, body {
   background-image: url('paper.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  background-size: 200% 200%;
+  background-size: 80% 80%;
 }
 
 h1{
 	font-size: 500%;
 }
 p{
-	font-size: 210%;
+	font-size: 100%;
 }
 
 canvas {
