@@ -5,14 +5,18 @@ html, body {
   background-image: url('paper.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
-  background-size: 80% 80%;
+  font-color:#612966;
 }
 
 h1{
 	font-size: 500%;
+	font-color:#405d67;
+}
+h2{
+	font-color:#405d67;
 }
 p{
-	font-size: 100%;
+	font-size: 80%;
 }
 
 canvas {
