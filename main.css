@@ -2,9 +2,10 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: "courier", monospace;
-  background-image: url('paper.jpeg');
+  background-image: url('paper2.jpeg');
   background-repeat: no-repeat;
-  background-attachment: fixed; 
+  background-attachment: fixed;
+  background-size: 100% 100%; 
   font-color:#612966;
 }
 
