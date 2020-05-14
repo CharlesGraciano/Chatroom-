@@ -1,5 +1,6 @@
 html, body {
-  margin: 0;
+  margin: 50px auto;
+  width: 80%;
   padding: 0;
   font-family: "courier", monospace;
   background-image: url('paper2.jpeg');
